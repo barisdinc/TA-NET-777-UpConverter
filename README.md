@@ -11,10 +11,10 @@ Genel Ozellikleri :
 - HF/VHF/UHF cihazlari kullanarak (SSB) QO-100 uyudusuna upconvert yapmak icin kullanilir
 - 28/50/144/435 MHz girisinden 2.4 GHz'e upconvert islemini yapar.
 - secimi uzerinde bulunan 2 adet dipswitch ile yapilmaktadir
-- 28 Mhz yerine opsiyonel olarak 1200 MHz kullanabilrisiniz, kod icind egerekli duzenlemeler ile ilgili aciklamalar mevcuttur
+- 28 Mhz yerine opsiyonel olarak 1200 MHz kullanabilrisiniz, kod icinde gerekli duzenlemeler ile ilgili aciklamalar mevcuttur
 - Maksimum giris gucu 5 Watt i asmamalidir
-- cihazin cikis gucu (SKY ile ) 1 watt civasindandir ve EDUP bensei anfiler ile daha yuksek guclere cikilabilir
-- SKY kullanilmadigi durumda 100-200 Miliwat civarinda bir guc ile istediginiz bir anfi ile kullanabilrisiniz
+- cihazin cikis gucu (SKY ile ) 1 watt civasindandir ve EDUP benzeri anfiler ile daha yuksek guclere cikilabilir
+- SKY kullanilmadigi durumda 100-200 Miliwat civarinda bir guc ile istediginiz bir anfi ile kullanabilirisiniz
 
 - Konu hakkinda detayli bir yaziyi da asagidaki sayfada bulabilirsiniz :
 
