@@ -25,7 +25,11 @@ Kodu nasil derleyeceginiz (arduinino ya da avr-gcc ile) kodun bas kisminda mevcu
 Hazir derlenmis HEX dosyalari da yukaridaki klasorlerde mevcuttur
 
 
-![sizes](Pictures/pic1.png)
+![sizes](Pictures/pic1.png){:height="36px" width="36px"}
 ![2D View](Pictures/pic2.png)
 ![3D View - Front](Pictures/pic3.png)
 ![3D View Back](Pictures/pic3.png)
+![Prototypes](Pictures/ta7w1.jpg)
+![Prototypes](Pictures/ta7w1.jpg)
+![Prototypes](Pictures/ta7w3.jpg)
+
