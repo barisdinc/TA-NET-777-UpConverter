@@ -1,6 +1,6 @@
 # TA-NET-777-UpConverter
 Bu proje yeniden ATOLYE grubu tarafindan TA-NET 777 katilimcilari icin hazirlanmis bir 2.4 GHz Upconverter projesidir.
-
+![yenidenATOLYE](Pictures/yatolye.png)
 Proje hakkinda detayli bilgiler icin asagidaki video ve sunumu izlemenizi oneririz :
 - https://youtu.be/WVTPuhvnB4w
 - https://youtu.be/KhWMfrUOU8w
@@ -23,3 +23,9 @@ https://ta1d.com/qo100-up-converter-ta777-yeni-atolye-grup-calismasi/
 Sema, GERBER ve PCB detaylarini (ve BOM ) bilgilerini dokumanlar dizininde bulabilirsiniz.
 Kodu nasil derleyeceginiz (arduinino ya da avr-gcc ile) kodun bas kisminda mevcuttur.
 Hazir derlenmis HEX dosyalari da yukaridaki klasorlerde mevcuttur
+
+
+![sizes](Pictures/pic1.png)
+![2D View](Pictures/pic2.png)
+![3D View - Front](Pictures/pic3.png)
+![3D View Back](Pictures/pic3.png)
