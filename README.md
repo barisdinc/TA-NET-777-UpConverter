@@ -27,9 +27,23 @@ Hazir derlenmis HEX dosyalari da yukaridaki klasorlerde mevcuttur
 
 ![sizes](Pictures/pic1.png){:height="36px" width="36px"}
 ![2D View](Pictures/pic2.png)
+2D Gorunum
 ![3D View - Front](Pictures/pic3.png)
+3D Gorunum (On)
 ![3D View Back](Pictures/pic3.png)
+3D Gorunum (arka)
 ![Prototypes](Pictures/ta7w1.jpg)
+Prototip Gorunumu 1
 ![Prototypes](Pictures/ta7w1.jpg)
+Prototip Gorunumu 2
 ![Prototypes](Pictures/ta7w3.jpg)
+Prototip Gorunumu 3
+![Prototypes](Pictures/ta7w3.jpg)
+Prototip Gorunumu 4
+![Prototypes](Pictures/V2_on.jpg)
+V2 Versiyon On Yuz
+![Prototypes](Pictures/V2_arka.jpg)
+V2 Versiyon Arka Yuz
+![Prototypes](Pictures/V2_kutu.jpg)
+V2 Versiyon Kutulanmis
 
