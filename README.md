@@ -7,6 +7,10 @@ Proje hakkinda detayli bilgiler icin asagidaki video ve sunumu izlemenizi onerir
 - https://youtu.be/caV9FkoR3bo
 - https://youtu.be/nuQJzcfvQ-c
 
+Playlist 
+- https://www.youtube.com/playlist?list=PLecaGE98mtkhjbvLQakkzYl7DVgV7Ta73
+
+
 Genel Ozellikleri :
 - HF/VHF/UHF cihazlari kullanarak (SSB) QO-100 uyudusuna upconvert yapmak icin kullanilir
 - 28/50/144/435 MHz girisinden 2.4 GHz'e upconvert islemini yapar.
